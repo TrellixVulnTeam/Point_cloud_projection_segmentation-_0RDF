@@ -6,7 +6,7 @@
 ## Install
 1.安装[swin_transformer](https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation)
 2.安装ros-noetic
-2.安装其他用到的python库
+3.安装其他用到的python库
 
 ## How to run
 in the note
