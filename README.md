@@ -9,6 +9,6 @@
 3. 安装其他用到的python库
 
 ## How to run
-in the note
+in note
 
 ## Reference
